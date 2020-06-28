@@ -13,8 +13,8 @@ Graph  Networks in PyTorch for Protein
 
 # Maintainers
 
-Duanhaoran: Responsible for the main code compilation and ideas proposed and implemented.
-Hide: Responsible for determining the correctness of ideas and personal opinions.
+​       Duanhaoran: Responsible for the main code compilation and ideas proposed and implemented.
+​       Hide: Responsible for determining the correctness of ideas and personal opinions.
 
 
 
